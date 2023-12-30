@@ -1,0 +1,12 @@
+h3{
+    color: pink; 
+ }
+ #greycol{
+     color: gray;
+ }
+ div + p{
+     color: red;
+ }
+ .yellow{
+     color: yellow;
+ }
